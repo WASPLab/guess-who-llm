@@ -1,8 +1,8 @@
 title: "Guess Who? LLM Recall, Inference, and Collaborative Cognition"
 description: "A cross-cultural study on what large language models remember, infer, and co-create with users."
 theme: jekyll-theme-cayman
-logo: assets/wasp-logo.png
+logo: assets/wasp-logo.jpeg
 show_downloads: false
 github:
   is_project_page: true
-  repository_url: "https://github.com/wasp-lab/guess-who-llm"
+  repository_url: "https://github.com/WASPLab/guess-who-llm"
