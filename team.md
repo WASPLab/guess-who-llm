@@ -19,7 +19,7 @@ The *Guess Who?* project is led by **Dr. Sherif Saad** and supported by an excep
 
 ## Principal Investigator
 
-- **[Dr. Sherif Saad](https://www.linkedin.com/in/drsherifsaad/)**  
+- **[Dr. Sherif Saad](https://www.linkedin.com/in/ebinsaad/)**  
   *Principal Investigator*  
   School of Computer Science, University of Windsor
 
@@ -27,13 +27,13 @@ The *Guess Who?* project is led by **Dr. Sherif Saad** and supported by an excep
 
 ## Graduate Researchers
 
-- **[Nour M.](https://www.linkedin.com/in/nour-moustafa/)**  
+- **[Nour Elkott.](https://www.linkedin.com/in/nourelkott/)**  
   *MSc Student* – University of Windsor  
 
-- **[Ahmed Yehia](https://www.linkedin.com/in/ahmedyehia99/)**  
+- **[Ahmed Yehia](https://www.linkedin.com/in/ahmed-yehia-b63170105/)**  
   *MSc Student* – University of Windsor  
 
-- **[Bisan Eslayeh](https://www.linkedin.com/in/bisaneslayeh/)**  
+- **[Bisan Eslayeh](https://www.linkedin.com/in/bisan-sharf/)**  
   *MSc Student* – University of Victoria  
 
 ---
@@ -43,7 +43,7 @@ The *Guess Who?* project is led by **Dr. Sherif Saad** and supported by an excep
 - **[Insaf A.](https://www.linkedin.com/in/insaf-ali-02/)**  
   *Undergraduate Research Intern* – WASP Lab  
 
-- **[Affan M.](https://www.linkedin.com/in/affan-mohammed-12/)**  
+- **[Affan M.](https://www.linkedin.com/in/mohammad-affan-shahid-26372a2b2/)**  
   *Undergraduate Research Intern* – WASP Lab  
 
 ---

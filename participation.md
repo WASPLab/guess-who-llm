@@ -6,7 +6,6 @@ title: How to Participate
   <a href="{{ '/' | relative_url }}">Home</a> ·
   <a href="{{ '/study' | relative_url }}">Study Overview</a> ·
   <a href="{{ '/participation' | relative_url }}">Participate</a> ·
-  <a href="{{ '/internships' | relative_url }}">Internships</a> ·
   <a href="{{ '/team' | relative_url }}">Team</a> ·
   <a href="{{ '/publications' | relative_url }}">Publications</a>
 </nav>
@@ -40,6 +39,6 @@ The study is fully remote and can be completed from your own device.
 
 If you are interested in participating at your site, please contact:
 
-- Canada: [shsaad@uwindsor.ca](mailto:shsaad@uwindsor.ca)  
+- Canada: [guesswhollm@wasplabs.ca](mailto:guesswhollm@wasplabs.ca)  
 
 Additional site contacts will be added as collaborations are confirmed.

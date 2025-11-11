@@ -5,4 +5,4 @@ logo: assets/wasp-logo.png
 show_downloads: false
 github:
   is_project_page: true
-  repository_url: "https://github.com/wasp-lab/guess-who-llm-study"
+  repository_url: "https://github.com/wasp-lab/guess-who-llm"
