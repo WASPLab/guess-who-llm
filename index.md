@@ -2,6 +2,14 @@
 layout: default
 title: Home
 ---
+<nav style="margin-bottom: 1rem; font-size: 0.95rem;">
+  <a href="{{ '/' | relative_url }}">Home</a> ·
+  <a href="{{ '/study' | relative_url }}">Study Overview</a> ·
+  <a href="{{ '/participation' | relative_url }}">Participate</a> ·
+  <a href="{{ '/internships' | relative_url }}">Internships</a> ·
+  <a href="{{ '/team' | relative_url }}">Team</a> ·
+  <a href="{{ '/publications' | relative_url }}">Publications</a>
+</nav>
 
 # Guess Who? Understanding LLM Recall, Inference, and Collaborative Cognition
 
@@ -15,11 +23,3 @@ Participants engage in carefully designed experiments that test short- and long-
 The project also serves as a mentorship platform for graduate and senior undergraduate students through remote research internships, offering training in research ethics, data analysis, and responsible AI practices.
 
 ---
-
-## Quick Links
-
-- [Study Overview](study.html)
-- [How to Participate](participation.html)
-- [Remote Internships](internships.html)
-- [Team](team.html)
-- [Publications & Outputs](publications.html)

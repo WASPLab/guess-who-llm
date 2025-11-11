@@ -2,6 +2,15 @@
 layout: default
 title: How to Participate
 ---
+<nav style="margin-bottom: 1rem; font-size: 0.95rem;">
+  <a href="{{ '/' | relative_url }}">Home</a> ·
+  <a href="{{ '/study' | relative_url }}">Study Overview</a> ·
+  <a href="{{ '/participation' | relative_url }}">Participate</a> ·
+  <a href="{{ '/internships' | relative_url }}">Internships</a> ·
+  <a href="{{ '/team' | relative_url }}">Team</a> ·
+  <a href="{{ '/publications' | relative_url }}">Publications</a>
+</nav>
+
 
 # How to Participate
 
