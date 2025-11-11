@@ -40,10 +40,10 @@ The *Guess Who?* project is led by **Dr. Sherif Saad** and supported by an excep
 
 ## Undergraduate Research Interns
 
-- **[Insaf A.](https://www.linkedin.com/in/insaf-ali-02/)**  
+- **[Insaf Alrumi](https://www.linkedin.com/in/insaf-alrumi-38262a395/)**  
   *Undergraduate Research Intern* – WASP Lab  
 
-- **[Affan M.](https://www.linkedin.com/in/mohammad-affan-shahid-26372a2b2/)**  
+- **[Affan Shahid](https://www.linkedin.com/in/mohammad-affan-shahid-26372a2b2/)**  
   *Undergraduate Research Intern* – WASP Lab  
 
 ---
