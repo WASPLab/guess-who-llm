@@ -12,8 +12,7 @@ title: Home
 
 # Guess Who? Understanding LLM Recall, Inference, and Collaborative Cognition
 
-*Guess Who?* is a multi-site research initiative led by **Dr. Sherif Saad** and the  
-**Wicked Applied Security Practices (WASP) Lab** at the University of Windsor.
+*Guess Who?* is a multi-site research initiative led by **Wicked Applied Security Practices (WASP) Lab** at the University of Windsor.
 
 The study investigates what large language models (LLMs) such as ChatGPT can **remember** and **infer** about their users, how those inferences influence perceptions of **accuracy, surprise, and privacy**, and whether human–AI brainstorming fosters **genuine creativity** or merely amplifies users’ existing viewpoints.
 
