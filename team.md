@@ -6,7 +6,6 @@ title: Team
   <a href="{{ '/' | relative_url }}">Home</a> ·
   <a href="{{ '/study' | relative_url }}">Study Overview</a> ·
   <a href="{{ '/participation' | relative_url }}">Participate</a> ·
-  <a href="{{ '/internships' | relative_url }}">Internships</a> ·
   <a href="{{ '/team' | relative_url }}">Team</a> ·
   <a href="{{ '/publications' | relative_url }}">Publications</a>
 </nav>
@@ -28,23 +27,23 @@ The *Guess Who?* project is led by **Dr. Sherif Saad** and supported by an excep
 ## Graduate Researchers
 
 - **[Nour Elkott.](https://www.linkedin.com/in/nourelkott/)**  
-  *MSc Student* – University of Windsor  
+  *MSc Student* – WASP Lab, University of Windsor  
 
 - **[Ahmed Yehia](https://www.linkedin.com/in/ahmed-yehia-b63170105/)**  
-  *MSc Student* – University of Windsor  
+  *MSc Student* – WASP Lab, University of Windsor  
 
 - **[Bisan Eslayeh](https://www.linkedin.com/in/bisan-sharf/)**  
-  *MSc Student* – University of Victoria  
+  *MSc Student* – WASP Lab, University of Victoria  
 
 ---
 
 ## Undergraduate Research Interns
 
 - **[Insaf Alrumi](https://www.linkedin.com/in/insaf-alrumi-38262a395/)**  
-  *Undergraduate Research Intern* – WASP Lab  
+  *Undergraduate Research Intern* – WASP Lab, Palestine Technical College
 
 - **[Affan Shahid](https://www.linkedin.com/in/mohammad-affan-shahid-26372a2b2/)**  
-  *Undergraduate Research Intern* – WASP Lab  
+  *Undergraduate Research Intern* – WASP Lab, University of Windsor
 
 ---
 
